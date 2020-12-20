@@ -16,7 +16,7 @@
    #
 
    spec.name         = "ZHGUtils"
-   spec.version      = "0.0.1"
+   spec.version      = "0.0.2"
    spec.summary      = "Useful functions and extensions"
  
    # This description is used to generate tags and improve search results.
@@ -90,7 +90,7 @@
    #  Not including the public_header_files will make all headers public.
    #
 
-   spec.source_files  = "ZHGUtils/Sources/**/*.{swift}"
+   spec.source_files  = "Sources/**/*.{swift}"
    # spec.exclude_files = "Classes/Exclude"
 
    # spec.public_header_files = "Classes/**/*.h"
